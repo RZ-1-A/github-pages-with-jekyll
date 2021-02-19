@@ -1,3 +1,8 @@
+---
+title: A-wing info Post
+date: 2021-02-19
+---
+
 Frist lets talk about the RZ-1 A-wing Light interceptor.
 it’s top speed is 120 MGLT, (MeGaLighT per hour)
 it’s sheilding is over board, 
