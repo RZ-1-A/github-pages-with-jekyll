@@ -14,7 +14,7 @@ The website where i talk about me and my wierd hobbys such as,
 </ul>
 
 # social links
-twitter_username:none, don't have one # DO NOT include the @ character, or else the build will fail!
+twitter_username: none do not have one # DO NOT include the @ character, or else the build will fail!
 github_username:  RZ-1-A # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
